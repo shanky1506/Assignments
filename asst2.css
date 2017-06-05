@@ -1,0 +1,14 @@
+body{
+	margin: 10px;
+	color: red
+	}
+img{
+	width:100px 
+	}	
+div.right {
+			float:left;
+			}
+div.left	{
+			float: right;
+			
+			}		
