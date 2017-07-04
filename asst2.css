@@ -1,7 +1,8 @@
 body{
-	margin:auto;
-    background-color: darkgrey
-		}
+
+    background-color:gray ;
+    position: absolute;
+}
 img{
 	width:100px 
 	}	
@@ -11,19 +12,21 @@ div.right {
 			}
 div.left	{
 			float: right;
-            
-			
+           		
 			}	
 fieldset {
     background-color: white ;
-    margin: auto ;
-    padding: 20 px
-    border : 20px red ;
+    margin: 100px 250px ;
+    padding: 60px
+    border : 20px solid red ;
         
 }
 p.Heading2 {
         text-decoration: underline ;
-        
+}
+p.h3 {
+        font-size: 150%
+    }        
     
     
     
